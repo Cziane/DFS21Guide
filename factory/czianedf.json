@@ -1,0 +1,9 @@
+{
+	"name": "czianedf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "989d8133-ad5f-457a-9051-17dc351fb061",
+		"tenantId": "e5d15069-41a2-48be-a3f3-d7f52db16425"
+	}
+}
